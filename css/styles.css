@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto';
+}
+
+.web {
+    font-family: 'Raleway';
+    color: #4D5AE5;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.studio {
+    font-family: 'Raleway';
+    color: #2E2F42;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.studio-footer {
+    font-family: 'Raleway';
+    color: #F4F4FD;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+header {
+    background-color: ;
+}
