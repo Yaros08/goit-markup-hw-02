@@ -12,8 +12,13 @@ body {
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
+    color: #4d5ae5;
 }
 
-.web {
-    color: #4D5AE5;
+.studio {
+    color: #2e2f42;
+}
+
+.studio-footer {
+    color: #f4f4fd;
 }
