@@ -90,7 +90,7 @@ body {
     background-color: #404BBF;
 }
 
-.our-team-section {
+.features-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -98,8 +98,21 @@ body {
     color: #2e2f42;
 }
 
-.working-position {
+.function {
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px;
 }
+
+.our-team-section-name {
+    
+}
+
+.our-team {
+    
+}
+
+.working-position {
+    
+}
+
