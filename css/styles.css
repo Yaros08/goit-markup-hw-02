@@ -28,6 +28,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    font-size: 16px;
 }
 
 .nav-menu:hover {
@@ -42,6 +43,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-size: 16px;
 }
 
 .nav-address:hover {
@@ -77,6 +79,7 @@ body {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    font-size: 16px;
 }
 
 .button-order:hover {
@@ -85,4 +88,18 @@ body {
 
 .button-order:focus {
     background-color: #404BBF;
+}
+
+.our-team-section {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.working-position {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-size: 16px;
 }
